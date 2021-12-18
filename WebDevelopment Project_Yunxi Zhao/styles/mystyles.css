@@ -1,0 +1,48 @@
+body {
+    background-image: url("../images/background resume(IS201).png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.underline{
+    text-decoration:underline
+}
+  
+.video-position{
+    margin-top: 3rem;
+    position: absolute;
+    left:20rem;
+    margin-bottom: 4rem
+}
+  
+.JvWordColor{
+    color:rgba(143, 56, 131, 0.411)
+}
+  
+.linkstyle{
+    font-size:9px;
+    color:rosybrown;
+    text-decoration: underline;
+}
+  
+.color{
+    color:#f3d3abda
+}
+
+.intro .intro-img {
+    width: 34%;
+    float:right;
+    max-height: 3;
+}
+
+.anchor-style{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgba(132, 132, 223, 0.76);
+    font-size: 20px;
+}
+  
+.interest{
+    position:relative;
+    margin-left:0.1rem;
+}

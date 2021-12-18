@@ -1,0 +1,111 @@
+.NavTop{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.header{
+    font-family:Verdana;
+    font-size: 79px;
+    font-weight: lighter;
+}
+
+.color_pink{
+    color:rgba(245, 155, 155, 0.637);
+}
+
+.color_white{
+    color:mintcream
+}
+
+.color_caramel{
+    color:rgba(231, 188, 130, 0.726)
+}
+
+.color_cream{
+    color:mistyrose
+}
+
+.bg{
+    background-image: url("../images/background resume(IS201).png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+/* .t-border-style{
+    border-style: double;
+    border-image: fill;
+} */
+
+/* .t-border{
+    border-color:rgba(231, 188, 130, 0.726);
+    border-width:  3px;
+} */
+
+.t-container-1{
+    position:relative;
+    display:inline-block;
+    margin-top:-2.5rem;
+    width: 20%;
+    padding-right: var(--bs-gutter-x, 0.75rem);
+    padding-left: var(--bs-gutter-x, 0.75rem);
+    padding-top:2rem;
+    padding-bottom:2rem;
+    /* margin-right: auto; */
+    margin-left: 20rem;
+    background-color: rgba(243, 218, 184, 0.726);
+    border-radius:15px;
+}
+
+.t-container-2{
+    position:relative;
+    display:inline-block;
+    margin-top:-2.5rem;
+    width: 20%;
+    padding-right: var(--bs-gutter-x, 0.75rem);
+    padding-left: var(--bs-gutter-x, 0.75rem);
+    padding-top:2rem;
+    padding-bottom:2rem;
+    /* margin-right: auto; */
+    margin-left: 43rem;
+    background-color: rgba(243, 218, 184, 0.726);
+    border-radius:15px;
+}
+
+.t-flex {
+    display: flex !important;
+  }
+
+.t-margin-1{
+    margin-left: 500px;
+}
+
+.t-margin-2{
+    margin-left: 50px;
+}
+
+.container-bg{
+    color:rgba(245, 200, 140, 0.671)
+}
+
+.font-chill{
+    color:rgba(192, 124, 124, 0.726);
+    font-size: 18px;
+    font-family:Verdana;
+}
+
+.font-light{
+    font-weight: lighter;
+}
+
+.h-position{
+    position:relative;
+    margin-left:360px;
+    margin-bottom: 3rem;
+}
+
+.f-position{
+    text-align:center;
+    margin-top:4rem;
+    margin-bottom:2rem;
+}
